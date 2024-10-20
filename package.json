@@ -51,7 +51,7 @@
     "autolinker": "^4.0.0",
     "bluebird": "^3.7.2",
     "evm-proxy-detection": "^1.2.0",
-    "graphql": "16.6.0",
+    "graphql": "16.8.1",
     "graphql-tag": "^2.12.6",
     "js-sha256": "^0.10.1",
     "jsonexport": "^3.2.0",
@@ -87,7 +87,7 @@
     "happy-dom": "^10.11.0",
     "husky": "^8.0.3",
     "patch-package": "^7.0.0",
-    "postcss": "^8.4.28",
+    "postcss": "^8.4.31",
     "postinstall-postinstall": "^2.1.0",
     "prettier": "^3.1.0",
     "prettier-plugin-tailwindcss": "^0.5.7",
@@ -99,7 +99,7 @@
     "unplugin-auto-import": "^0.16.1",
     "unplugin-icons": "^0.16.5",
     "unplugin-vue-components": "^0.25.2",
-    "vite": "^2.9.14",
+    "vite": "^3.2.11",
     "vitest": "^0.33.0"
   },
   "resolutions": {
